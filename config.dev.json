@@ -1,0 +1,9 @@
+﻿{
+  "ConnectionStrings": {
+    "BlogDataContext": "Data Source=(localdb)\\MSSQLLocalDB;Database=ExploreCalifornia;Trusted_Connection=True;",
+    "SpeacialDataContext": "Data Source=(localdb)\\MSSQLLocalDB;Database=ExploreCalifornia_Specials;Trusted_Connection=True;",
+    "IdentityDataContext": "Data Source=(localdb)\\MSSQLLocalDB;Database=ExploreCalifornia_Identity;Trusted_Connection=True;"
+  },
+  "DevOrtamiAyar": true
+
+}

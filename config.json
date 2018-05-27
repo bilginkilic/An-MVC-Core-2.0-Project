@@ -1,0 +1,8 @@
+﻿{
+  "ConnectionStrings": {
+    "BlogDataContext": "Server=tcp:swordbrosdata.database.windows.net,1433;Initial Catalog=swordbros;Persist Security Info=False;User ID=swordadmin;Password=Swordbros123&;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "SpeacialDataContext": "Server=tcp:swordbrosdata.database.windows.net,1433;Initial Catalog=swordbros;Persist Security Info=False;User ID=swordadmin;Password=Swordbros123&;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "DevOrtamiAyar": true
+
+}
